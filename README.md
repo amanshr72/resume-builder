@@ -14,6 +14,6 @@ Quick and Easy Online Resume Builder
 
 <li>Key fields like internships and project titles can be highlighted and better presented</li>
 
-G. Makes optimal use of white space, leading to lesser use of pages</li>
+<li>Makes optimal use of white space, leading to lesser use of pages</li>
 </ul>
 resume builder lets you break away the look and feel of a traditional resume and ensures that your professional resume is suited to the jobs you want.</p>
