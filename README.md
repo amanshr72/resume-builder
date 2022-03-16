@@ -16,4 +16,4 @@ Quick and Easy Online Resume Builder
 
 G. Makes optimal use of white space, leading to lesser use of pages</li>
 </ul>
-Firstnaukri resume maker lets you break away the look and feel of a traditional resume and ensures that your professional resume is suited to the jobs you want.</p>
+resume builder lets you break away the look and feel of a traditional resume and ensures that your professional resume is suited to the jobs you want.</p>
