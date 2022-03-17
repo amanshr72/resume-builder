@@ -1,6 +1,6 @@
 <h1>Resume-builder</h1>
-Quick and Easy Online Resume Builder
-<p>A well written and a professional resume can help you get shortlisted for your most awaited interview. If you find writing a resume tough, Resume Builder simplifies that job for you. Loaded with a comprehensive array of features, here is a run-down of other major benefits this free resume builder brings for freshers.
+<h5> Quick and Easy Online Resume Builder </h5>
+<p>A properly written and a professional resume let you get shortlisted in your most awaited interview. in case you discover writing a resume tough, Resume Builder simplifies that activity for you. Loaded with a complete array of functions, here is a run-down of different principal blessings this loose resume builder brings for freshers.
 <ul>
   <li>Simple to use and creates a professional looking resume in minutes.</li>
 
