@@ -17,3 +17,17 @@ Quick and Easy Online Resume Builder
 <li>Makes optimal use of white space, leading to lesser use of pages</li>
 </ul>
 resume builder lets you break away the look and feel of a traditional resume and ensures that your professional resume is suited to the jobs you want.</p>
+
+## Setup Steps
+
+- Clone repo
+```
+$ $ git clone https://github.com/amanshr72/resume-builder.git
+```
+- Install node modules
+```
+$ npm i node-modules
+```
+- Start LocalHost Server
+```
+$ npm start
