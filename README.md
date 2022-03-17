@@ -22,7 +22,7 @@ resume builder lets you break away the look and feel of a traditional resume and
 
 - Clone repo
 ```
-$ $ git clone https://github.com/amanshr72/resume-builder.git
+$ git clone https://github.com/amanshr72/resume-builder.git
 ```
 - Install node modules
 ```
